@@ -7,7 +7,7 @@ import java.io.outputprinter;
 import java.io.inputprinter;
 public class SpiralPatternExample2
 {  
-//function to print the spiral patternss  
+//function to print the spiral patterns clearly  
 public static void printPattern(int n)  
 {  
 //detrmines the boundary size of the array  
